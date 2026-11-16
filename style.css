@@ -16,6 +16,6 @@ text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
 
 .kartu-profil img {
-  width: 150px
-  border-radius: 50% /*Trik untuk membuat gambar menjadi lingkaran sempurna*/
+  width: 150px;
+  border-radius: 50%; /*Trik untuk membuat gambar menjadi lingkaran sempurna*/
 }
